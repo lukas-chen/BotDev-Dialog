@@ -1,0 +1,42 @@
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Bot Application.dll.config
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Bot Application.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Bot Application.pdb
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Autofac.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Chronic.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Builder.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Connector.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Rest.ClientRuntime.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Newtonsoft.Json.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Net.Http.Formatting.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Web.Http.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Web.Http.WebHost.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Autofac.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Builder.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.Bot.Connector.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\Newtonsoft.Json.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Net.Http.Formatting.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Web.Http.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\System.Web.Http.WebHost.xml
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\obj\Debug\ChatbotDialog.csprojAssemblyReference.cache
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\obj\Debug\ChatbotDialog.csproj.CoreCompileInputs.cache
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\obj\Debug\ChatbotDialog.csproj.CopyComplete
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\obj\Debug\Bot Application.dll
+D:\GitHub\learning\ChatbotDialog\ChatbotDialog\obj\Debug\Bot Application.pdb
